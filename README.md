@@ -1,1 +1,0 @@
-# Fuji-testnet-token
